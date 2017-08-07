@@ -1,6 +1,6 @@
 # Site settings
 title:       Ma cuiller est rapide
-email:       simoncoulombe@gmail.comcom
+email:       simoncoulombe@gmail.com
 author:      Simon Coulombe
 description: "Les réflexions de Gaëlle."
 baseurl:     ""
@@ -83,8 +83,8 @@ share_hackernews: false
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: 'Plus récent'
+    older: 'Plus ancien'
   share_buttons:
     text:         'Share this post!'
     facebook:     'Share on Facebook'
@@ -103,16 +103,16 @@ text:
   index:
     coming_soon: 'Coming soon...'
   contact:
-    email:    'Email Address'
-    content:  'What would you like to say?'
+    email:    'simoncoulombe@gmail.com'
+    content:  'Que voulez vous dire?'
     subject:  'New submission!'
-    submit:   'Say Hello'
+    submit:   'Dire bonjour'
     ajax:
-      sending:  'sending..'
-      sent:     'Message sent!'
-      error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
-  og_locale: 'en_US'
+      sending:  'envoi en cours..'
+      sent:     'Message envoyé!'
+      error:    'Erreur!'
+  thanks: 'Merci de nous avoir contactés, nous répondrons aussitôt que possible.'
+  og_locale: 'fr_CA'
 
 # Build settings
 markdown:     kramdown

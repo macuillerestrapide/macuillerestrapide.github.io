@@ -4,7 +4,7 @@ email:       simoncoulombe@gmail.com
 author:      Simon Coulombe
 description: "Les réflexions de Gaëlle."
 baseurl:     ""
-url:         "http://gaellecoulombe.com"
+url:         "http://macuillerestrapide.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md

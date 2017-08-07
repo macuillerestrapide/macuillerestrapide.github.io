@@ -103,7 +103,7 @@ text:
   index:
     coming_soon: 'Coming soon...'
   contact:
-    email:    'simoncoulombe@gmail.com'
+    email:    'Votre adresse email'
     content:  'Que voulez vous dire?'
     subject:  'New submission!'
     submit:   'Dire bonjour'

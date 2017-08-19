@@ -6,4 +6,5 @@ categories: jekyll pixyll
 ---
 
 S (chantant) : J'ai perdu ma culotte-lotte-lotte, j'ai perdu ma culotte dans l'bois
+
 G : Mais c'est bizarre ça, il faut mettre un legging!

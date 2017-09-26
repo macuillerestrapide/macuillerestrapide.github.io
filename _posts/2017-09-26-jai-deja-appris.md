@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      J'ai déja appris
-date:       2017-98-26 00:00:00
+date:       2017-09-26 00:00:01
 categories: jekyll pixyll
 ---
 S: Demain matin on va à ton deuxième cours de patin!  

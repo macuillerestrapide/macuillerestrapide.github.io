@@ -7,7 +7,8 @@ categories: jekyll pixyll
 
 G: big dog blue  
 G: small dog pink  
-G: witch ghost vampire  
+G: witch ghost vampire, squeleton
+G: fish, octopus, shark
 G: ballerina, ballerina  
 G: zip my coat, please  
 G: five little pumpkins, sitting on a gate  
